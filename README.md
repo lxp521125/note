@@ -23,3 +23,4 @@ https://github.com/lxp521125/skill-map
 udp，tcp。http
 
 客户端发起一个请求的流程
+http://blog.csdn.net/bpingchang/article/details/51328941
