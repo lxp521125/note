@@ -23,4 +23,10 @@ https://github.com/lxp521125/skill-map
 udp，tcp。http
 
 客户端发起一个请求的流程
-http://blog.csdn.net/bpingchang/article/details/51328941
+  WEB请求处理一：浏览器请求发起处理 http://www.jianshu.com/p/558455228c43
+  WEB请求处理二：Nginx请求反向代理 http://www.jianshu.com/p/558455228c43
+  WEB请求处理五：MVC框架请求处理 http://www.jianshu.com/p/6462e69ce241
+  WEB请求处理六：浏览器HTTP协议漫谈 http://www.jianshu.com/p/b1ea16450fff
+
+转载】《大型网站技术架构》读书笔记  http://www.jianshu.com/p/e2bcc2f1d3a5
+http://www.jianshu.com/p/e2bcc2f1d3a5
